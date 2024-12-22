@@ -1,7 +1,8 @@
 from setuptools import setup, find_packages
+from PyQt6In import Berg679
 
 setup(
-    name="PyQtIn",
+    name="PyQt6In",
     version="0.1.0",
     description="libary",
     author="Berg679",

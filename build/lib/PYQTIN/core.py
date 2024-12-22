@@ -8,3 +8,7 @@ def Variant1():
     """
 
     print("Списать ")
+
+
+def Variant2():
+    """"""
